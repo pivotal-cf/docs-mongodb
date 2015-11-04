@@ -1,5 +1,5 @@
 ---
-title: MongoDB for Pivotal Cloud Foundry&reg;
+title: MongoDB for Pivotal Cloud Foundry&reg; (PCF)
 ---
 
 # Resource requirements for MongoDB for PCF
