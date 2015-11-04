@@ -1,8 +1,8 @@
 ---
-title: MongoDB for Pivotal Cloud Foundry
+title: MongoDB for Pivotal Cloud Foundry&reg;
 ---
 
-This is documentation for the [MongoDB service](https://network.pivotal.io/products/p-mongodb) for [Pivotal Cloud Foundry](https://network.pivotal.io/products/pivotal-cf) (PCF).
+This is documentation for the [MongoDB service](https://network.pivotal.io/products/p-mongodb) for [Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/pivotal-cf) (PCF).
 
 ## Product snapshot
 
@@ -20,7 +20,7 @@ This is documentation for the [MongoDB service](https://network.pivotal.io/produ
 
 ## Upgrading to the Latest Version
 
-Consider the following compatibility information before upgrading MongoDB for Pivotal Cloud Foundry. 
+Consider the following compatibility information before upgrading MongoDB for Pivotal Cloud Foundry&reg;. 
 
 <p class="note"><strong>Note</strong>: Before you upgrade to Ops Manager 1.4.x, you must first upgrade MongoDB for PCF to any version in its 1.3.x minor release. This allows MongoDB for PCF upgrades after you install OpsManager 1.4.x. </p>
 
@@ -54,7 +54,7 @@ For more information, refer to the full [Product Version Matrix](../compatibilit
 
 ### Install via Pivotal Operations Manager
 
-To install MongoDB for PCF, follow the procedure for installing Pivotal Cloud Foundry Operations Manager tiles:
+To install MongoDB for PCF, follow the procedure for installing Pivotal Cloud Foundry&reg; Operations Manager tiles:
 
 1. Download the product file from [Pivotal Network](https://network.pivotal.io/).
 1. Upload the product file to your Ops Manager installation.
@@ -97,7 +97,7 @@ We plan to address all of these limitations in future releases.
 
 ### Feedback
 
-Please provide any bugs, feature requests, or questions to [the Pivotal Cloud Foundry Feedback list](mailto:pivotal-cf-feedback@pivotal.io).
+Please provide any bugs, feature requests, or questions to [the Pivotal Cloud Foundry&reg; Feedback list](mailto:pivotal-cf-feedback@pivotal.io).
 
 ### Further Reading
 

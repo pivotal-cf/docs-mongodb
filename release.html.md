@@ -1,8 +1,8 @@
 ---
-title: MongoDB for Pivotal Cloud Foundry
+title: MongoDB for Pivotal Cloud Foundry&reg;
 ---
 
-Release notes for [MongoDB for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-mongodb)
+Release notes for [MongoDB for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-mongodb)
 
 ### 1.4.1
 **Release Date: 6th July 2015**
