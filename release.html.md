@@ -4,6 +4,13 @@ title: MongoDB for Pivotal Cloud Foundry&reg;
 
 Release notes for [MongoDB for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-mongodb)
 
+### 1.4.2
+**Release Date: 24th November 2015**
+
+Features included in this release:
+
+* Updated stemcell to 3130
+
 ### 1.4.1
 **Release Date: 6th July 2015**
 
