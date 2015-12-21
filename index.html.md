@@ -4,12 +4,14 @@ title: MongoDB for Pivotal Cloud Foundry&reg;
 
 This is documentation for the [MongoDB service](https://network.pivotal.io/products/p-mongodb) for [Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/pivotal-cf) (PCF).
 
+**This product is currently available as a free unsupported product from Pivotal Network, it is not actively maintained or updated with new versions or bug fixes.**
+
 ## Product snapshot
 
 <dl>
 <dt>Current MongoDB for PCF Details</dt>
-<dd><strong>Version</strong>: 1.4.1 </dd>
-<dd><strong>Release Date</strong>: 7th July 2015</dd>
+<dd><strong>Version</strong>: 1.4.2 </dd>
+<dd><strong>Release Date</strong>: 24th November 2015</dd>
 <dd><strong>Software component version</strong>: MongoDB OSS 2.6.1</dd>
 <dd><strong>Compatible Ops Manager Version(s)</strong>: 1.5.x, 1.4.x</dd>
 <dd><strong>Compatible Elastic Runtime Version(s)</strong>: 1.5.x, 1.4.x</dd>
@@ -20,7 +22,7 @@ This is documentation for the [MongoDB service](https://network.pivotal.io/produ
 
 ## Upgrading to the Latest Version
 
-Consider the following compatibility information before upgrading MongoDB for Pivotal Cloud Foundry&reg;. 
+Consider the following compatibility information before upgrading MongoDB for Pivotal Cloud Foundry&reg;.
 
 <p class="note"><strong>Note</strong>: Before you upgrade to Ops Manager 1.4.x, you must first upgrade MongoDB for PCF to any version in its 1.3.x minor release. This allows MongoDB for PCF upgrades after you install OpsManager 1.4.x. </p>
 
@@ -41,12 +43,13 @@ For more information, refer to the full [Product Version Matrix](../compatibilit
   </td>
 </tr>
 <tr>
-  <th>1.5.x and 1.4.x</th>
+  <th>1.6.x, 1.5.x and 1.4.x</th>
   <td><ul>
-      <li>From 1.3.2 to 1.4.0, 1.4.1</li>
-      <li>From 1.3.3 to 1.4.0, 1.4.1</li>
-      <li>From 1.3.4.1 to 1.4.0, 1.4.1</li>
-      <li>From 1.4.0 to 1.4.1</li>
+      <li>From 1.3.2 to 1.4.0, 1.4.1, 1.4.2</li>
+      <li>From 1.3.3 to 1.4.0, 1.4.1. 1.4.2</li>
+      <li>From 1.3.4.1 to 1.4.0, 1.4.1, 1.4.2</li>
+      <li>From 1.4.0 to 1.4.1, 1.4.2</li>
+      <li>From 1.4.1 to 1.4.2</li>
     </ul>
   </td>
 </tr>
