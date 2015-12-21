@@ -4,6 +4,8 @@ title: MongoDB for Pivotal Cloud Foundry&reg;
 
 This is documentation for the [MongoDB service](https://network.pivotal.io/products/p-mongodb) for [Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/pivotal-cf) (PCF).
 
+**This product is currently available as a free unsupported product from Pivotal Network, it is not actively maintained or updated with new versions or bug fixes.**
+
 ## Product snapshot
 
 <dl>
