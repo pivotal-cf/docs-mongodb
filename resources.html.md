@@ -1,5 +1,5 @@
 ---
-title: MongoDB for Pivotal Cloud Foundry&reg; (PCF)
+title: MongoDB for Pivotal Cloud Foundry (PCF)
 owner: London Services
 ---
 

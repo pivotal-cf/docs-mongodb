@@ -1,9 +1,9 @@
 ---
-title: MongoDB for Pivotal Cloud Foundry&reg;
+title: MongoDB for Pivotal Cloud Foundry
 owner: London Services
 ---
 
-Release notes for [MongoDB for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-mongodb)
+Release notes for [MongoDB for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-mongodb)
 
 ### 1.4.2
 **Release Date: 24th November 2015**
